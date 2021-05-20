@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ColourGenerator/static/css/main.d6e55e95.chunk.css",
-    "main.js": "/ColourGenerator/static/js/main.ce56e3b2.chunk.js",
-    "main.js.map": "/ColourGenerator/static/js/main.ce56e3b2.chunk.js.map",
+    "main.css": "/ColourGenerator/static/css/main.f5ec70ed.chunk.css",
+    "main.js": "/ColourGenerator/static/js/main.8f1c2ca6.chunk.js",
+    "main.js.map": "/ColourGenerator/static/js/main.8f1c2ca6.chunk.js.map",
     "runtime-main.js": "/ColourGenerator/static/js/runtime-main.e6f63fa1.js",
     "runtime-main.js.map": "/ColourGenerator/static/js/runtime-main.e6f63fa1.js.map",
-    "static/js/2.91765cef.chunk.js": "/ColourGenerator/static/js/2.91765cef.chunk.js",
-    "static/js/2.91765cef.chunk.js.map": "/ColourGenerator/static/js/2.91765cef.chunk.js.map",
+    "static/js/2.3555944b.chunk.js": "/ColourGenerator/static/js/2.3555944b.chunk.js",
+    "static/js/2.3555944b.chunk.js.map": "/ColourGenerator/static/js/2.3555944b.chunk.js.map",
     "static/js/3.24f50834.chunk.js": "/ColourGenerator/static/js/3.24f50834.chunk.js",
     "static/js/3.24f50834.chunk.js.map": "/ColourGenerator/static/js/3.24f50834.chunk.js.map",
     "index.html": "/ColourGenerator/index.html",
-    "static/css/main.d6e55e95.chunk.css.map": "/ColourGenerator/static/css/main.d6e55e95.chunk.css.map",
-    "static/js/2.91765cef.chunk.js.LICENSE.txt": "/ColourGenerator/static/js/2.91765cef.chunk.js.LICENSE.txt"
+    "static/css/main.f5ec70ed.chunk.css.map": "/ColourGenerator/static/css/main.f5ec70ed.chunk.css.map",
+    "static/js/2.3555944b.chunk.js.LICENSE.txt": "/ColourGenerator/static/js/2.3555944b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e6f63fa1.js",
-    "static/js/2.91765cef.chunk.js",
-    "static/css/main.d6e55e95.chunk.css",
-    "static/js/main.ce56e3b2.chunk.js"
+    "static/js/2.3555944b.chunk.js",
+    "static/css/main.f5ec70ed.chunk.css",
+    "static/js/main.8f1c2ca6.chunk.js"
   ]
 }
